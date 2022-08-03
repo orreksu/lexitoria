@@ -17,6 +17,7 @@ Objective-C++ ??
 - [hopl.org](https://hopl.org)
 - [Rosetta Code](http://www.rosettacode.org)
 - [Computer Languages History](https://www.levenez.com/lang/)
+- [Wikipedia: Timeline of Programming Languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 
 
 ## Tools
