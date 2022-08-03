@@ -19,6 +19,8 @@ Objective-C++ ??
 - [Computer Languages History](https://www.levenez.com/lang/)
 - [Wikipedia: Timeline of Programming Languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 
+## Conferences & Meetups
+- [HOPL4](https://hopl4.sigplan.org)
 
 ## Tools
 - [ohm](https://github.com/harc/ohm)
