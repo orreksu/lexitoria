@@ -11,3 +11,15 @@ Objective-C++ ??
 ```
 
 [Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
+
+## Other Wesbites
+- [hopl.info](https://hopl.info)
+- [hopl.org](https://hopl.org)
+
+
+## Tools
+- [ohm](https://github.com/harc/ohm)
+
+
+## Project Development
+- Have page that compares different languages in terms of their syntax and what is legal.
