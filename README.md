@@ -15,6 +15,8 @@ Objective-C++ ??
 ## Other Wesbites
 - [hopl.info](https://hopl.info)
 - [hopl.org](https://hopl.org)
+- [Rosetta Code](http://www.rosettacode.org)
+- [Computer Languages History](https://www.levenez.com/lang/)
 
 
 ## Tools
@@ -23,3 +25,9 @@ Objective-C++ ??
 
 ## Project Development
 - Have page that compares different languages in terms of their syntax and what is legal.
+- Language Page
+  - Links to compilers
+  - Links to package managers
+  - Dates
+  - Links to resources 
+  - Mercy with a language
