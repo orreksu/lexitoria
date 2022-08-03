@@ -9,3 +9,5 @@ C + Smalltalk —> Objective-C (pure superset)
 
 Objective-C++ ??
 ```
+
+[Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
