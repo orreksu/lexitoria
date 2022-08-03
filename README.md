@@ -25,6 +25,10 @@ Objective-C++ ??
 ## Tools
 - [ohm](https://github.com/harc/ohm)
 
+## Rust
+- https://www.reddit.com/r/rust/comments/acyg1j/which_other_languages_inspired_rust/
+- https://doc.rust-lang.org/reference/influences.html
+- https://evrone.com/rust-vs-c
 
 ## Project Development
 - Have page that compares different languages in terms of their syntax and what is legal.
