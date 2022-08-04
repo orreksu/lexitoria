@@ -1,6 +1,7 @@
 # lexitoria
 History of programming languages
 
+- [GitBook](https://app.gitbook.com/s/XlE5az1w3n3VdjJFVDOJ/)
 - [Notion Database](https://scrawny-slayer-df9.notion.site/Programming-Languages-c27954d7d7e54d01a9d3751eb58b1c3e)
 - [MindMeister Mind Map](https://www.mindmeister.com/map/2256753401?t=Bu8fpqG2ci)
 - [Neo4j](https://console.neo4j.io/#databases/fadc0331/detail)
