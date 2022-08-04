@@ -35,6 +35,8 @@ Objective-C++ ??
 
 ## Project Development
 - Have page that compares different languages in terms of their syntax and what is legal.
+- Place to compare programming languages directly
+- Contribution by people
 - Language Page
   - Links to compilers
   - Links to package managers
