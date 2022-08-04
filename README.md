@@ -1,7 +1,8 @@
 # lexitoria
 History of programming languages
 
-[Notion Website](https://scrawny-slayer-df9.notion.site/Programming-Languages-c27954d7d7e54d01a9d3751eb58b1c3e)
+[Notion Database](https://scrawny-slayer-df9.notion.site/Programming-Languages-c27954d7d7e54d01a9d3751eb58b1c3e)
+[MindMeister Mind Map](https://www.mindmeister.com/map/2256753401?t=Bu8fpqG2ci)
 
 ```
 C + Simula —> C++ (not pure superset)
@@ -10,7 +11,8 @@ C + Smalltalk —> Objective-C (pure superset)
 Objective-C++ ??
 ```
 
-[Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
+## Videos
+- [Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
 
 ## Other Wesbites
 - [hopl.info](https://hopl.info)
