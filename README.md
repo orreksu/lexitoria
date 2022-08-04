@@ -17,6 +17,7 @@ Objective-C++ ??
 
 ## Other Wesbites
 - [hopl.info](https://hopl.info)
+- [FOLDOC Language List](https://foldoc.org/contents/language.html)
 - [hopl.org](https://hopl.org)
 - [Rosetta Code](http://www.rosettacode.org)
 - [Computer Languages History](https://www.levenez.com/lang/)
