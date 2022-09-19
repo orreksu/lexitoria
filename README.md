@@ -18,7 +18,9 @@ Objective-C++ ??
 - [Early History of Programming Languages](https://www.youtube.com/watch?v=GHT7sWD3-Ho)
 
 ## Other Wesbites
+- [PLDB](https://github.pldb.com/index.html)
 - [hopl.info](https://hopl.info)
+- [Lambda The Ultimate](lambda-the-ultimate.org)
 - [FOLDOC Language List](https://foldoc.org/contents/language.html)
 - [hopl.org](https://hopl.org)
 - [Rosetta Code](http://www.rosettacode.org)
