@@ -26,6 +26,7 @@ Objective-C++ ??
 - [Rosetta Code](http://www.rosettacode.org)
 - [Computer Languages History](https://www.levenez.com/lang/)
 - [Wikipedia: Timeline of Programming Languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+- [Wiki: Programming Paradigms](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
 ## Conferences & Meetups
 - [HOPL4](https://hopl4.sigplan.org)
